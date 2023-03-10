@@ -1,1 +1,1 @@
-I created a simple digital clock with Javascript.
+I created a simple digital clock with Javascript .
